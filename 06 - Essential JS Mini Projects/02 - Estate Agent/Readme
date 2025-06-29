@@ -1,0 +1,9 @@
+W trakcie projektu przećwiczono:
+- import/export – modularna struktura plików
+- .map() – przekształcanie tablicy danych nieruchomości
+- .join() – składanie elementów HTML w jeden łańcuch
+- Object destructuring – wygodne wyciąganie właściwości z obiektów
+- .reduce() – obliczanie sumy powierzchni pokoi
+- Default parameters – domyślne wartości w funkcjach
+
+https://marwoz01.github.io/Scrimba/06%20-%20Essential%20JS%20Mini%20Projects/02%20-%20Estate%20Agent/
