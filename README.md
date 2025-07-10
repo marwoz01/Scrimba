@@ -1,6 +1,6 @@
 # Scrimba - Front-End Developer Career Path
 
-To repozytorium zawiera moje projekty oraz ćwiczenia z kursu **Front-End Developer Career Path** realizowanego na platformie [Scrimba](https://scrimba.com/).
+Repozytorium zawiera moje projekty oraz ćwiczenia z kursu **Front-End Developer Career Path** realizowanego na platformie [Scrimba](https://scrimba.com/).
 
 ## 📁 Struktura repozytorium
 
