@@ -1,12 +1,17 @@
-# React + Vite
+# Digital Business Card – wizytówka w React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplikacja przedstawia cyfrową wizytówkę, zbudowaną od podstaw przy użyciu Reacta, z podziałem na komponenty.
 
-Currently, two official plugins are available:
+## W trakcie projektu przećwiczono:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Tworzenie projektu React od zera  
+- Praca z własnymi danymi i strukturą komponentów  
+- Podział aplikacji na komponenty:  
+  - `Info`
+  - `About`  
+  - `Interests`  
+  - `Footer`
 
-## Expanding the ESLint configuration
+## 🔍 Podgląd
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[https://marwoz01.github.io/Scrimba/11%20-%20React%20basics/02%20-%20Digital%20Business%20Card/](https://marwoz01.github.io/Scrimba/11%20-%20React%20basics/02%20-%20Digital%20Business%20Card/)
