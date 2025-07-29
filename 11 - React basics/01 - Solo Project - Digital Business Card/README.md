@@ -14,4 +14,4 @@ Aplikacja przedstawia cyfrową wizytówkę, zbudowaną od podstaw przy użyciu R
 
 ## 🔍 Podgląd
 
-[https://marwoz01.github.io/Scrimba/11%20-%20React%20basics/02%20-%20Digital%20Business%20Card/](https://marwoz01.github.io/Scrimba/11%20-%20React%20basics/02%20-%20Digital%20Business%20Card/)
+https://marwoz01.github.io/Scrimba/11%20-%20React%20basics/01%20-%20Solo%20Project%20-%20Digital%20Business%20Card/
