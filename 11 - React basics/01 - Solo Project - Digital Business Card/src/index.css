@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Inter, sans-serif;
+  margin: 0;
+  background: #23252c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  max-width: 320px;
+  background: #1a1b21;
+  border-radius: 10px;
+  color: white;
+}
+
+header {
+  text-align: center;
+}
+
+header > h1 {
+  font-weight: 600;
+  font-size: 1.5625rem;
+  padding-top: 1rem;
+}
+
+header > h3 {
+  color: #f3bf99;
+  font-weight: 200;
+  font-size: 0.8rem;
+}
+
+header > p {
+  font-size: 0.64rem;
+  padding: 0.5rem;
+}
+
+.buttons {
+  display: flex;
+  gap: 20px;
+  margin-top: 10px;
+  margin-bottom: 1.2rem;
+  justify-content: center;
+}
+
+.btn {
+  font-family: Inter, sans-serif;
+  padding: 0.5rem 1.8rem;
+  border: none;
+  border-radius: 8px;
+}
+
+.btn > i {
+  padding: 0 0.15rem;
+}
+
+.linkedin-btn {
+  background-color: #5093e2;
+  color: white;
+}
+
+section {
+  padding: 0.7rem 1.8rem;
+}
+
+.info-p {
+  font-size: 0.64rem;
+  font-weight: 200;
+  color: #dcdcdc;
+  line-height: 1.5;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+  padding: 1rem;
+  background: #161619;
+}
