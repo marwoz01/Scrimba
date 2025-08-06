@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Scrimba/11%20-%20React%20basics/chef-claude/static/js/main.d7a5069a.js",
+    "static/media/chef-claude-icon.png": "/Scrimba/11%20-%20React%20basics/chef-claude/static/media/chef-claude-icon.340e1555799ac9dfa824.png",
+    "index.html": "/Scrimba/11%20-%20React%20basics/chef-claude/index.html",
+    "main.d7a5069a.js.map": "/Scrimba/11%20-%20React%20basics/chef-claude/static/js/main.d7a5069a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d7a5069a.js"
+  ]
+}
