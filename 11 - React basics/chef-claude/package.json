@@ -17,11 +17,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && rmdir /s /q docs && move build docs",
+    "build": "react-scripts build ; if (Test-Path docs) { Remove-Item -Recurse -Force docs } ; Rename-Item build docs",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
